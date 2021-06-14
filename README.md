@@ -3,7 +3,7 @@ The bot of the discord server DMU FR.
 Discord : https://discord.gg/aNNkGhCG
 
 # Use of the code
-You can use the bot, but don't copy everything.
+You can use the bot, edit it, but credit me.
 
 # Information
 1. This bot is in french!
